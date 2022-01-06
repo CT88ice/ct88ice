@@ -10,3 +10,5 @@ Code and Programs fascinate me as there are endless ways of solutions and can al
 and what tools will be helpful for the future career that I have in mind
 - 🌱 I’m currently learning a lot of things as I´m studying Programming at my school
 - 📫 How to reach me: ct88ice@gmail.com or c.tegnegren@gmail.com
+
+My website ct88ice.tech is a recently started project and will be updated
