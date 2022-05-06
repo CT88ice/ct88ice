@@ -1,6 +1,6 @@
 ### Hi there fellow GitHub members and vistors 👋
 
-Studying at TEC in Frederiksberg, Denmark (https://www.tec.dk/erhvervsuddannelser/vaelg-erhvervsuddannelse/data-og-kommunikationsuddannelsen/  ) I'm at the Datatechnician program and have chosen to specialize in programming.
+Studying at TEC in Denmark (https://www.tec.dk/erhvervsuddannelser/vaelg-erhvervsuddannelse/data-og-kommunikationsuddannelsen/  ) I'm at the Datatechnician program and have chosen to specialize in programming.
 
 My aim with becoming a programmer is to become that one IT person you trust to fix it when you "just need your program to work" or "need your system to become effective and less of a waste of time and company money" 
 
